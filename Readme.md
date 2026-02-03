@@ -23,4 +23,3 @@ $ npm install -g drylikov/slowloris
     -c, --connections <n>  number of connections to open [5000]
 
 ```
-
