@@ -1,4 +1,4 @@
-# slowloris
+# Slowloris
 
   Slow loris attack testing tool.
 
