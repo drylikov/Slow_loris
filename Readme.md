@@ -1,4 +1,3 @@
-
 # slowloris
 
   Slow loris attack testing tool.
@@ -8,7 +7,7 @@
 ## Installation
 
 ```
-$ npm install -g visionmedia/slowloris
+$ npm install -g drylikov/slowloris
 ```
 
 ## Usage
