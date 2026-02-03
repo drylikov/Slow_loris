@@ -1,4 +1,4 @@
-# Slow loris.
+ Slow loris.
 
   Slow loris attack testing tool.
 
@@ -23,7 +23,6 @@ $ npm install -g drylikov/slowloris
     -c, --connections <n>  number of connections to open [5000]
 
 ```
-
 
 
 
